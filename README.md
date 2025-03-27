@@ -1,7 +1,9 @@
 Simple Network Scanner
+
 A lightweight Python tool for discovering and identifying devices on your local network.
 
 Features
+
 Scans local network for active devices
 
 Identifies known devices based on MAC addresses
