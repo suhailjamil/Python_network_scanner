@@ -24,6 +24,7 @@ python main.py
 
 
 **Configuration**
+
 Add known devices to data/devices.json:
 
 {
