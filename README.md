@@ -12,8 +12,8 @@ A lightweight Python tool for discovering and identifying devices on your local 
   
   Creates log files for each scan
 
-**Quick Start
-**
+**Quick Start**
+
 1.Clone the repository
 
 2.Install dependencies:
