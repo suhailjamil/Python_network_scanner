@@ -1,18 +1,19 @@
-Simple Network Scanner
+**Simple Network Scanner**
 
 A lightweight Python tool for discovering and identifying devices on your local network.
 
-Features
+**Features**
 
-Scans local network for active devices
+  Scans local network for active devices
+  
+  Identifies known devices based on MAC addresses
+  
+  Generates a report of known and unknown devices
+  
+  Creates log files for each scan
 
-Identifies known devices based on MAC addresses
-
-Generates a report of known and unknown devices
-
-Creates log files for each scan
-
-Quick Start
+**Quick Start
+**
 1.Clone the repository
 
 2.Install dependencies:
@@ -22,7 +23,7 @@ pip install -r requirements.txt
 python main.py
 
 
-Configuration
+**Configuration**
 Add known devices to data/devices.json:
 
 {
